@@ -8,10 +8,10 @@ Create a mobile app for managing the contacts. App should allow user to save the
 
 | Screen  | Use case | Details |
 | --- | --- | --- |
-| Contact list screen | User can see list of contacts in ascending order by name | 1. 	Screen has the title `Contact List`
-2. Show list of contacts with contact name and photo saved in ascending order
-3. This screen will have a `add` button at the bottom right of the screen. Pressing this button will take user to `Create new contact screen`
-4. In contact list, by clicking on any contact, user will navigate to `Update contact screen` |
+| Contact list screen | User can see list of contacts in ascending order by name | - Screen has the title `Contact List`
+- Show list of contacts with contact name and photo saved in ascending order
+- This screen will have a `add` button at the bottom right of the screen. Pressing this button will take user to `Create new contact screen`
+- In contact list, by clicking on any contact, user will navigate to `Update contact screen` |
 | Create new contact screen | User can add a new contact | - Screen has the title `Add New Contact` 
 - Following are the input fields:
    - Name of person
